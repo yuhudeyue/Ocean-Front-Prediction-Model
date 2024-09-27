@@ -4,7 +4,7 @@ Dataset: Bohai sst dataset, kuroshio sst dataset, Bohai ocean front dataset, kur
 
 Evaluation Method: F_Score
 
-Comparison Method：CNN， LSTM， ConvLSTM, GAT
+Comparison Method：CNN， LSTM， ConvLSTM, GAT, CFCC-LSTM
 
 Before running the code, ensure you have the following dependencies installed:
 Python 3.x
